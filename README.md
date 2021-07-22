@@ -6,7 +6,7 @@ I used React Hook Form as it's something that I've used in the past and requires
 
 So to start with I made the bare bones of the form. I added the title, input fields and labels for email address and password. I then apply the necassary values to the inputs so the react hook form can add these to the data. React hook form also allows me to add errors to each input.
 
-When picking the best method for the colour choice I decided to with the <select> attribute as it looked considerably neater than radio. The radio switches above the checkboxes looked quite messy and confusing.
+When picking the best method for the colour choice I decided to go with the `{<select>}` attribute as it looked considerably neater than radio. The radio switches above the checkboxes looked quite messy and confusing.
 
 Checkboxes were the best choice for the animal selection part as it allowed for multiple choices.
 
